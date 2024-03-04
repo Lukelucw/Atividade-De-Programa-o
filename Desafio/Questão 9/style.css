@@ -1,0 +1,11 @@
+
+.CaixaTexto {
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid rgb(70, 0, 128);
+    border-radius: 8px;
+    box-shadow: 1px 1px 2px rgb(77, 69, 69);
+    width: 250px;
+    height: 100px;
+    background-color: white;
+}

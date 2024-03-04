@@ -1,0 +1,29 @@
+.imagem {
+    width: 500px;
+    height: 500px;
+    border: 2px solid purple;
+    border-radius: 10px;
+    padding: 20px;
+    background-image: url(https://media.istockphoto.com/id/920377882/pt/foto/beautiful-landscape-with-high-mountains-with-illuminated-peaks-stones-in-mountain-lake.jpg?s=612x612&w=0&k=20&c=Dy4n2iig2lpgj5VmWbCNKf1knkIszSlzieuIjW2Ykaw=);
+    background-size: cover;
+
+}
+
+.preto {
+    height: 200px;
+    width: 200px;
+    border: solid 1px;
+    padding: 20px;
+    background-color: white;
+
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: solid 1px;
+    background-color: black;
+
+
+}
